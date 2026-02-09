@@ -91,4 +91,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para de
 ---
 
 ### Contato
-Desenvolvido por **[Seu Nome/GitHub]** - Sinta-se à vontade para entrar em contato para feedbacks ou oportunidades!
+Desenvolvido por **[@Dyuzai]** - Sinta-se à vontade para entrar em contato para feedbacks ou oportunidades!
