@@ -18,7 +18,7 @@ export default function OverViewCard({ icon: Icon, iconColor, variation, value, 
                 <p
                  className={`flex items-center gap-1 p-2 text-sm ${variation > 0 ? "rounded-lg text-emerald-500 bg-emerald-500/10" : "rounded-lg text-rose-500 bg-rose-500/10"}`}    
                 > 
-                    <span>{variation > 0 ? "+" : "-"}</span>
+                    <span>{variation > 0 ? "+" : ""}</span>
                     {variation}%
                 </p>
             </div>
